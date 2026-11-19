@@ -19,7 +19,7 @@ I like:
 #🗞️Midterm Projects🥇
 - Midterm Labtask1
 - Midterm Labtask2
-- 
+
 #💻Langues I can use🖥️
 - Java
 - HTML
