@@ -15,7 +15,7 @@ I like:
 - Calm chill coding
 - Purple 
 - And Other Stuff
-- 
+
 #🗞️Midterm Projects🥇
 - Midterm Labtask1
 - Midterm Labtask2
